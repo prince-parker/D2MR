@@ -1,10 +1,2 @@
 # D2MR
-pull test
-pull it
-pull it 3
-test 4
-pull test
-pull test 2
-push test
-pull test 1/13
-push test 1/13
+This README file is for only mini-projects to be completed for Data to Manuscript in R (first section)
